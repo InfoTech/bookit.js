@@ -1,0 +1,77 @@
+#paginatorControls {
+	border: 1px solid #CCC;
+	border-bottom: none;
+	margin: 0px -5px 0px -5px;
+	padding: 5px 5px 5px 5px;
+	border-radius: 6px 6px 0 0;
+	background: #EAEAEA;
+	background: -moz-linear-gradient(top, #EAEAEA 1%, #D1D1D1 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%, #EAEAEA), color-stop(100%, #D1D1D1));
+	background: -webkit-linear-gradient(top, #EAEAEA 1%, #D1D1D1 100%);
+	background: -o-linear-gradient(top, #EAEAEA 1%, #D1D1D1 100%);
+	background: -ms-linear-gradient(top, #EAEAEA 1%, #D1D1D1 100%);
+	background: linear-gradient(top, #EAEAEA 1%,#D1D1D1 100%);
+	position: relative;
+	z-index: 100;
+}
+
+#pageflow a {
+	cursor: pointer;
+	color: #2576B7;
+	padding: 2px;
+	background: white;
+	border: 1px solid #CCC;
+	width: 70px;
+	text-align: center;
+	text-decoration: none;
+}
+
+#pageflow .disabled {
+	color: #CCC;
+	pointer-events: none;
+  cursor: default;	
+}
+
+#pageflow a:hover {
+	color: #D17D08;
+}
+
+#pageflow .left {
+	float: left;
+}
+
+#paginatorControls .center {
+	margin: 0 auto;
+	text-align: center;
+}
+
+#paginatorControls .right {
+	float: right;
+}
+
+#paginatorControls .clear {
+	clear: both;
+}
+
+#pageflow select {
+	margin: 0;
+	height: 25px;
+	border: 1px solid #CCC;
+	background-color: white;
+	border-width: 1px;
+	border-style: solid;
+}
+
+#pageCount {
+	padding: 4px 20px 0px 7px;
+}
+
+.pageViewer {
+	border: 1px solid #CCC;
+	margin: 0px -5px -5px -5px;
+	padding: 5px 5px 5px 5px;
+	border-radius: 0 0 6px 6px;
+	background-color: white;
+	z-index: 100;
+}
+	
