@@ -3,7 +3,7 @@ bookit.js
 
 ## Description
 
-booitk.js will turn this:
+bookit.js will turn this:
 
     <div id="target_div">
         <div data-title="Section 1">
