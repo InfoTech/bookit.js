@@ -29,7 +29,7 @@ into this:
 
 ## Installation
 
-Include bookit.js and book.css on your page, along with jQuery.
+Include bookit.js and bookit.css on your page, along with jQuery.
 
 ## Usage
 
