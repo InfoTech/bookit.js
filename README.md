@@ -3,13 +3,13 @@ bookit.js
 
 ## Description
 
-book.js will turn this:
+booitk.js will turn this:
 
     <div id="target_div">
         <div data-title="Section 1">
             Page 1
         </div>
-      <div>
+        <div>
             Page 2
         </div>
     	<div>
