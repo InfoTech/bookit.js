@@ -3,7 +3,9 @@ bookit.js
 
 ## Description
 
-bookit.js will turn this:
+bookit.js is a jQuery plugin that displays content in a consumable, book-style format, with the ability to paginate, as well as jump to defined sections.
+
+Basically, it turns this:
 
     <div id="target_div">
         <div data-title="Section 1">
